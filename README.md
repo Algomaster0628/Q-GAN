@@ -16,11 +16,3 @@ Generative Adversarial Networks (GANs) have shown remarkable success in generati
 3. Explore the implementation of Q-GAN in the Quaternion domain.
 4. Evaluate the performance of Q-GAN compared to classical GANs.
 5. Document the findings and insights gained from the project.
-
-## Repository Structure
-- **/src**: Contains the source code for Q-GAN implementation.
-- **/data**: Includes datasets used for training and testing.
-- **/docs**: Documentation related to the project.
-- **/results**: Store generated images and evaluation metrics.
-- **README.md**: This file providing an overview of the project.
-- **LICENSE**: License information for the project.
